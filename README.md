@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1zT7B4Q2E0s09svWykFd7Y-oXeOiEowbH/view?usp=drive_link"  />
+  <img height="150" src="Cover.jpg"  />
 </div>
 
 ###
