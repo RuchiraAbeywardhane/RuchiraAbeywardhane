@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<div align="center">
+  <img height="150" src="https://drive.google.com/file/d/1zT7B4Q2E0s09svWykFd7Y-oXeOiEowbH/view?usp=drive_link"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -29,7 +34,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RuchiraAbeywardhane.RuchiraAbeywardhane&"  />
 </div>
 
 ###
@@ -77,7 +82,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=RuchiraAbeywardhane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
