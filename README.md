@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="300" src="Cover.jpg" alt="Cover Image" />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋 I’m Ruchira Abeywardhane</h1>
